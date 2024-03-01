@@ -1,7 +1,7 @@
 Welcome to WheatherAppUI ⛅️
 
 WeatherAppUI - An iOS application represent user interface of weatherApp.
-where you can change day time through button named Change Day Time.
+where you can switch mode through button named Change Day Time.
 
 Here is Project video👇🏻
 
